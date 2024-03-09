@@ -1,0 +1,114 @@
+15
+HSL1001
+Tran Lan Anh
+12/05/2013
+Tran Van Huy
+Cha
+0472846212
+1 Le Duan,Ben Nghe,Quan 1
+ HSM1001
+Huynh Ngoc Thai
+17/10/2015
+Nguyen Thi Mai
+Me
+0287462241
+5 To Hien Thanh,Phuong 15,Quan 10
+ HSC1001
+Tran Phuong Anh
+20/02/2014
+Nguyen Thi Lan
+Me
+0293474782
+10 Nguyen Kiem,Phuong 3,Quan Go Vap
+ HSL1002
+Nguyen Ngoc Chau
+21/10/2013
+Nguyen Van Son
+Cha
+0397574833
+15 Le Trong Tan,Son Ky,Quan Tan Phu
+ HSM1002
+Nguyen Nhu Quyen
+08/06/2015
+Nguyen Thi Lien
+Me
+0283747537
+3 Cong Hoa,Phuong 15,Quan Tan Binh
+ HSC1002
+Tran Nhat Thuy
+17/11/2014
+Tran Van Huy
+Cha
+0373648293
+34 Au Co,Phuong 13,Quan Tan Phu
+ HSM1003
+Nguyen Anh Hong
+23/11/2015
+Le Van Hung
+Cha
+0384628345
+773 Nguyen Xien,Long Thanh,Quan 9
+ HSC1003
+Nguyen Khanh Thi
+28/12/2014
+Nguyen Khanh Huy
+Cha
+0937326275
+23 Thong Nhat,Binh Tho,Quan Thu Duc
+ HSL1003
+Le Khanh Linh
+16/04/2013
+Nguyen Thi Dao
+Me
+0293747381
+53 Quang Trung,Hiep Phu,Quan 9
+ HSM1004
+Vo Nhu Ha
+12/05/2015
+Nguyen Thi Phuc
+Me
+0283726343
+3 Au Co,Phuong 13,Quan Tan Phu
+ HSL1004
+Nguyen Thu Ha
+12/01/2013
+Nguyen Van Dung
+Cha
+0384726329
+6 Tran Phu,Phuong 4,Quan 5
+ HSC1004
+Phan Xuan Yen
+29/01/2014
+Phan Tai
+Cha
+0398473735
+7 Ly Thai To,Phuong 5,Quan 1
+ HSM1005
+Tran Nhu Vy
+28/12/2015
+Tran Van Duy
+Cha
+0974828254
+16 Nguyen Kiem,Phuong 3,Quan Phu Nhuan
+ HSL1005
+Pham Thuy Ngan
+04/01/2013
+Le Thi Cuc
+Me
+0394487473
+44 Hoang Dieu, Phuong 8,Quan 4
+ HSC1005
+Pham Anh Phuong
+03/07/2014
+Pham Van Khoi
+Cha
+0394747854
+43 Au Co,Phuong 1, Quan Tan Phu
+
+
+
+
+
+
+
+
